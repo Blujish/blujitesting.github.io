@@ -1,2 +1,2 @@
 # blujitesting.github.io
-Test stuff
+Test stuffs
